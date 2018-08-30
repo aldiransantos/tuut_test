@@ -1,0 +1,29 @@
+{
+  "name": "test_tuut",
+  "version": "1.0.0",
+  "description": "Projeto de avaliação como parte do processo seletivo da TUUT",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Teste",
+    "TUUT",
+    "Front-end",
+    "Wordpress"
+  ],
+  "author": "Aldiran Santos",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-jsmin": "^0.1.5",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglifycss": "^1.1.0"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
